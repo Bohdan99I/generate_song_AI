@@ -65,3 +65,14 @@
 - Приспів — фінал  
 
 ---
+## 🧠 Крок 4. Промпт для Suno
+
+```
+Write a warm, emotional Christmas song in Ukrainian.
+Style: modern pop Christmas.
+Mood: cozy, loving, festive.
+Include names and personal memories.
+Song structure: verse – chorus – verse – chorus – bridge – final chorus.
+```
+
+---
