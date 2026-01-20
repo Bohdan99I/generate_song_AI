@@ -97,4 +97,4 @@ Song structure: verse – chorus – verse – chorus – bridge – final choru
 
 ✨ Головне — щирість.
 
-🔗 Джерело: [song](https://tally.so/r/dWNJWr)
+🔗 Джерело: [SONG](https://tally.so/r/dWNJWr)
